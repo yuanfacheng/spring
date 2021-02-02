@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.format.datetime.DateFormattingTests" tests="18" skipped="1" failures="0" errors="0" timestamp="2021-01-22T01:38:41" hostname="SUPERMAN" time="0.065">
+  <properties/>
+  <testcase name="testBindDateAnnotated()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.036"/>
+  <testcase name="testBindDateArray()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindNestedDateAnnotated()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.002"/>
+  <testcase name="testBindDateAnnotatedWithError()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.003"/>
+  <testcase name="stringToDateWithGlobalFormat()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.002"/>
+  <testcase name="testBindLongAnnotated()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.003"/>
+  <testcase name="dateToStringWithGlobalFormat()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.002"/>
+  <testcase name="testBindISODate()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindISOTime()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.002"/>
+  <testcase name="testBindCalendarAnnotated()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindDateAnnotatedPatternWithGlobalFormat()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindDateAnnotatedPattern()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindDateTimeOverflow()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindISODateTime()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="testBindDateAnnotatedWithFallbackError()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.0">
+    <skipped/>
+  </testcase>
+  <testcase name="testBindLong()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.0"/>
+  <testcase name="dateToStringWithoutGlobalFormat()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <testcase name="stringToDateWithoutGlobalFormat()" classname="org.springframework.format.datetime.DateFormattingTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

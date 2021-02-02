@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.index.processor.PropertiesMarshallerTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-01-22T03:28:30" hostname="SUPERMAN" time="0.044">
+  <properties/>
+  <testcase name="readWrite()" classname="org.springframework.context.index.processor.PropertiesMarshallerTests" time="0.001"/>
+  <testcase name="metadataIsWrittenDeterministically()" classname="org.springframework.context.index.processor.PropertiesMarshallerTests" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" tests="10" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:26" hostname="SUPERMAN" time="0.065">
+  <properties/>
+  <testcase name="testLazyResourceInjectionWithConstructorAndCustomAnnotation()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.007"/>
+  <testcase name="testLazyOptionalResourceInjectionWithNonExistingTarget()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.005"/>
+  <testcase name="testLazyResourceInjectionWithField()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.009"/>
+  <testcase name="testLazyResourceInjectionWithMethodLevelLazy()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.014"/>
+  <testcase name="testLazyResourceInjectionWithConstructor()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.004"/>
+  <testcase name="testLazyResourceInjectionWithMethodAndCustomAnnotation()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.007"/>
+  <testcase name="testLazyResourceInjectionWithFieldAndCustomAnnotation()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.003"/>
+  <testcase name="testLazyResourceInjectionWithConstructorLevelLazy()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.003"/>
+  <testcase name="testLazyResourceInjectionWithNonExistingTarget()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.001"/>
+  <testcase name="testLazyResourceInjectionWithMethod()" classname="org.springframework.context.annotation.LazyAutowiredAnnotationBeanPostProcessorTests" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

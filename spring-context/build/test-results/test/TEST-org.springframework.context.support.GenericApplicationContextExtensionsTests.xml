@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.support.GenericApplicationContextExtensionsTests" tests="6" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:39:22" hostname="SUPERMAN" time="0.039">
+  <properties/>
+  <testcase name="registerBeanWithNameAndFunction()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.018"/>
+  <testcase name="registerBeanWithNameAndSupplier()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.008"/>
+  <testcase name="registerBeanWithFunction()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.006"/>
+  <testcase name="registerBeanWithNameAndClass()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.0"/>
+  <testcase name="registerBeanWithSupplier()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.006"/>
+  <testcase name="registerBeanWithClass()" classname="org.springframework.context.support.GenericApplicationContextExtensionsTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

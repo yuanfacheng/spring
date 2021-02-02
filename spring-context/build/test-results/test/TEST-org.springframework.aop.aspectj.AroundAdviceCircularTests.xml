@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.aspectj.AroundAdviceCircularTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:09" hostname="SUPERMAN" time="0.272">
+  <properties/>
+  <testcase name="testJustJoinPoint()" classname="org.springframework.aop.aspectj.AroundAdviceCircularTests" time="0.077"/>
+  <testcase name="testOneObjectArgBoundToTarget()" classname="org.springframework.aop.aspectj.AroundAdviceCircularTests" time="0.057"/>
+  <testcase name="testOneIntAndOneObjectArgs()" classname="org.springframework.aop.aspectj.AroundAdviceCircularTests" time="0.042"/>
+  <testcase name="testOneIntArg()" classname="org.springframework.aop.aspectj.AroundAdviceCircularTests" time="0.046"/>
+  <testcase name="testBothBeansAreProxies()" classname="org.springframework.aop.aspectj.AroundAdviceCircularTests" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:46" hostname="SUPERMAN" time="0.364">
+  <properties/>
+  <testcase name="testOnlyTargetClassIsExposed()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.035"/>
+  <testcase name="testComponentScan()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.172"/>
+  <testcase name="testPackagePrivateClassExtensionCanBeExposed()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.022"/>
+  <testcase name="testPackagePrivateExtensionCantBeExposed()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.029"/>
+  <testcase name="testLazyNaming()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.021"/>
+  <testcase name="testLazyAssembling()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.038"/>
+  <testcase name="testPlaceholderBased()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.019"/>
+  <testcase name="testPackagePrivateImplementationCantBeExposed()" classname="org.springframework.jmx.export.annotation.EnableMBeanExportConfigurationTests" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

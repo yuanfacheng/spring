@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:13" hostname="SUPERMAN" time="0.226">
+  <properties/>
+  <testcase name="testBeforeAdviceFiringOk()" classname="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" time="0.092"/>
+  <testcase name="testTargetIsBeanNameAware()" classname="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" time="0.037"/>
+  <testcase name="testTargetIsSerializable()" classname="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" time="0.034"/>
+  <testcase name="testAroundAdviceFiringOk()" classname="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" time="0.034"/>
+  <testcase name="testAfterReturningFiringOk()" classname="org.springframework.aop.aspectj.DeclarationOrderIndependenceTests" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

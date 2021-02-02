@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jmx.support.MBeanServerConnectionFactoryBeanTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:50" hostname="SUPERMAN" time="0.298">
+  <properties/>
+  <testcase name="lazyConnectionAndNoAccess()" classname="org.springframework.jmx.support.MBeanServerConnectionFactoryBeanTests" time="0.04"/>
+  <testcase name="noServiceUrl()" classname="org.springframework.jmx.support.MBeanServerConnectionFactoryBeanTests" time="0.001"/>
+  <testcase name="lazyConnection()" classname="org.springframework.jmx.support.MBeanServerConnectionFactoryBeanTests" time="0.143"/>
+  <testcase name="validConnection()" classname="org.springframework.jmx.support.MBeanServerConnectionFactoryBeanTests" time="0.111"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.cache.config.EnableCachingIntegrationTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:38" hostname="SUPERMAN" time="0.26">
+  <properties/>
+  <testcase name="beanConditionOff()" classname="org.springframework.cache.config.EnableCachingIntegrationTests" time="0.067"/>
+  <testcase name="beanConditionOn()" classname="org.springframework.cache.config.EnableCachingIntegrationTests" time="0.116"/>
+  <testcase name="fooServiceWithInterfaceCglib()" classname="org.springframework.cache.config.EnableCachingIntegrationTests" time="0.031"/>
+  <testcase name="fooServiceWithInterface()" classname="org.springframework.cache.config.EnableCachingIntegrationTests" time="0.045"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

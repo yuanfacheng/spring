@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.ConfigurationClassAndBFPPTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:22" hostname="SUPERMAN" time="0.036">
+  <properties/>
+  <testcase name="autowiringSucceedsWithBFPPAsStaticMethod()" classname="org.springframework.context.annotation.ConfigurationClassAndBFPPTests" time="0.017"/>
+  <testcase name="autowiringFailsWithBFPPAsInstanceMethod()" classname="org.springframework.context.annotation.ConfigurationClassAndBFPPTests" time="0.01"/>
+  <testcase name="staticBeanMethodsDoNotRespectScoping()" classname="org.springframework.context.annotation.ConfigurationClassAndBFPPTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

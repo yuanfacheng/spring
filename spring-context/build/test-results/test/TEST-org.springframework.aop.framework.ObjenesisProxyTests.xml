@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.framework.ObjenesisProxyTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:20" hostname="SUPERMAN" time="0.788">
+  <properties/>
+  <testcase name="appliesAspectToClassWithComplexConstructor()" classname="org.springframework.aop.framework.ObjenesisProxyTests" time="0.788"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBeanTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:40" hostname="SUPERMAN" time="0.033">
+  <properties/>
+  <testcase name="testInvokesMethodOnEjb3StyleBean()" classname="org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBeanTests" time="0.018"/>
+  <testcase name="testNoBusinessInterfaceSpecified()" classname="org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBeanTests" time="0.009"/>
+  <testcase name="testCreateException()" classname="org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBeanTests" time="0.003"/>
+  <testcase name="testInvokesMethod()" classname="org.springframework.ejb.access.LocalStatelessSessionProxyFactoryBeanTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

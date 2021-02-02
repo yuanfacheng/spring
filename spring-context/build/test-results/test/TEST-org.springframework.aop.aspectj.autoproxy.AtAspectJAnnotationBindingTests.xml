@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.aop.aspectj.autoproxy.AtAspectJAnnotationBindingTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:11" hostname="SUPERMAN" time="0.16">
+  <properties/>
+  <testcase name="testAnnotationBindingInAroundAdvice()" classname="org.springframework.aop.aspectj.autoproxy.AtAspectJAnnotationBindingTests" time="0.086"/>
+  <testcase name="testNoMatchingWithoutAnnotationPresent()" classname="org.springframework.aop.aspectj.autoproxy.AtAspectJAnnotationBindingTests" time="0.037"/>
+  <testcase name="testPointcutEvaluatedAgainstArray()" classname="org.springframework.aop.aspectj.autoproxy.AtAspectJAnnotationBindingTests" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

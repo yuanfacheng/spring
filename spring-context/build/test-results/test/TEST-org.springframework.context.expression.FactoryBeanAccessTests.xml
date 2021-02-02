@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.expression.FactoryBeanAccessTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:30" hostname="SUPERMAN" time="0.025">
+  <properties/>
+  <testcase name="factoryBeanAccess()" classname="org.springframework.context.expression.FactoryBeanAccessTests" time="0.025"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

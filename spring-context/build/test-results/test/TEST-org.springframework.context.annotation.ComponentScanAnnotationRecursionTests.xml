@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.ComponentScanAnnotationRecursionTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:51" hostname="SUPERMAN" time="0.028">
+  <properties/>
+  <testcase name="recursion()" classname="org.springframework.context.annotation.ComponentScanAnnotationRecursionTests" time="0.028"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

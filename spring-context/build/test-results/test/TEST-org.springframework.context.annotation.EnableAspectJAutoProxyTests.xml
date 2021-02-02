@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.EnableAspectJAutoProxyTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:23" hostname="SUPERMAN" time="0.473">
+  <properties/>
+  <testcase name="withCglibProxy()" classname="org.springframework.context.annotation.EnableAspectJAutoProxyTests" time="0.099"/>
+  <testcase name="withJdkProxy()" classname="org.springframework.context.annotation.EnableAspectJAutoProxyTests" time="0.09"/>
+  <testcase name="withAnnotationOnArgumentAndCglibProxy()" classname="org.springframework.context.annotation.EnableAspectJAutoProxyTests" time="0.111"/>
+  <testcase name="withAnnotationOnArgumentAndJdkProxy()" classname="org.springframework.context.annotation.EnableAspectJAutoProxyTests" time="0.095"/>
+  <testcase name="withExposedProxy()" classname="org.springframework.context.annotation.EnableAspectJAutoProxyTests" time="0.078"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

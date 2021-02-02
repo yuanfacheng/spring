@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="InstantFormatter unit tests" tests="30" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:42" hostname="SUPERMAN" time="0.094">
+  <properties/>
+  <testcase name="[1] input=2021-01-22T01:38:42.211Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.037"/>
+  <testcase name="[2] input=+96239249-06-16T19:06:16Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[3] input=+993574476-10-22T16:16:08Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[4] input=+142548094-06-26T06:48:02Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[5] input=+102591691-06-20T19:34:58Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[6] input=-948216160-10-15T15:00:49Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[7] input=-106669976-02-14T09:53:54Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[8] input=+956785698-03-19T08:18:12Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[9] input=+681230810-10-18T13:42:16Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[10] input=+354396377-09-22T22:50:07Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[1] input=2021-01-22T01:38:42.283Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[2] input=+73824406-03-31T18:56:38Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[3] input=+980412363-10-08T12:20:18Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[4] input=-743152636-02-27T21:23:06Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[5] input=-489154761-12-30T13:40:28Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[6] input=+409266435-12-02T13:33:54Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[7] input=+725833649-06-22T22:33:56Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[8] input=-414417301-05-24T03:40:05Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[9] input=-89871461-05-14T06:57:08Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[10] input=-387858846-06-17T08:43:29Z" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[1] input=Fri, 22 Jan 2021 09:38:42 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.002"/>
+  <testcase name="[2] input=Fri, 31 May 8593 19:13:55 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.002"/>
+  <testcase name="[3] input=Mon, 16 Feb 3626 15:59:53 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[4] input=Sat, 3 May 1445 18:25:11 +0805" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[5] input=Mon, 14 Oct 3850 09:43:18 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.001"/>
+  <testcase name="[6] input=Thu, 20 Jan 1453 05:18:01 +0805" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[7] input=Mon, 22 Apr 5686 22:54:19 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[8] input=Fri, 5 Jan 2998 14:20:49 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[9] input=Thu, 14 May 2071 23:35:55 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <testcase name="[10] input=Tue, 23 Sep 6966 21:58:26 +0800" classname="org.springframework.format.datetime.standard.InstantFormatterTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

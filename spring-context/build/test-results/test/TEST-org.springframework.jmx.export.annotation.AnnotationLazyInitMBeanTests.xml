@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.jmx.export.annotation.AnnotationLazyInitMBeanTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:44" hostname="SUPERMAN" time="0.646">
+  <properties/>
+  <testcase name="lazyAssembling()" classname="org.springframework.jmx.export.annotation.AnnotationLazyInitMBeanTests" time="0.337"/>
+  <testcase name="lazyNaming()" classname="org.springframework.jmx.export.annotation.AnnotationLazyInitMBeanTests" time="0.068"/>
+  <testcase name="componentScan()" classname="org.springframework.jmx.export.annotation.AnnotationLazyInitMBeanTests" time="0.241"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Jan 22, 2021 9:38:45 AM ClientCommunicatorAdmin restart
+WARNING: Failed to restart: java.net.ConnectException: Connection refused: connect
+Jan 22, 2021 9:38:45 AM ClientIntermediary close
+INFO: java.io.IOException: The connection is not currently established.
+java.io.IOException: The connection is not currently established.
+	at com.sun.jmx.remote.generic.ClientSynchroMessageConnectionImpl.checkState(ClientSynchroMessageConnectionImpl.java:617)
+	at com.sun.jmx.remote.generic.ClientSynchroMessageConnectionImpl.sendOneWay(ClientSynchroMessageConnectionImpl.java:202)
+	at javax.management.remote.generic.GenericConnector.close(GenericConnector.java:300)
+	at javax.management.remote.generic.GenericConnector.close(GenericConnector.java:271)
+	at javax.management.remote.generic.ClientIntermediary$GenericClientCommunicatorAdmin.doStop(ClientIntermediary.java:897)
+	at com.sun.jmx.remote.opt.internal.ClientCommunicatorAdmin.restart(ClientCommunicatorAdmin.java:172)
+	at com.sun.jmx.remote.opt.internal.ClientCommunicatorAdmin.gotIOException(ClientCommunicatorAdmin.java:73)
+	at javax.management.remote.generic.GenericConnector$RequestHandler.execute(GenericConnector.java:662)
+	at com.sun.jmx.remote.generic.ClientSynchroMessageConnectionImpl$RemoteJob.run(ClientSynchroMessageConnectionImpl.java:568)
+	at com.sun.jmx.remote.opt.util.ThreadService$ThreadServiceJob.run(ThreadService.java:248)
+	at com.sun.jmx.remote.opt.util.JobExecutor.run(JobExecutor.java:99)
+
+]]></system-err>
+</testsuite>

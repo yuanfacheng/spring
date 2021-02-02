@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.ejb.config.JeeNamespaceHandlerEventTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:40" hostname="SUPERMAN" time="0.161">
+  <properties/>
+  <testcase name="testLocalSlsbComponentEventReceived()" classname="org.springframework.ejb.config.JeeNamespaceHandlerEventTests" time="0.081"/>
+  <testcase name="testJndiLookupComponentEventReceived()" classname="org.springframework.ejb.config.JeeNamespaceHandlerEventTests" time="0.042"/>
+  <testcase name="testRemoteSlsbComponentEventReceived()" classname="org.springframework.ejb.config.JeeNamespaceHandlerEventTests" time="0.037"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

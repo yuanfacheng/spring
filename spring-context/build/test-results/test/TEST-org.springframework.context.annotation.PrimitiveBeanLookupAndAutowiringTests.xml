@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.PrimitiveBeanLookupAndAutowiringTests" tests="4" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:26" hostname="SUPERMAN" time="0.03">
+  <properties/>
+  <testcase name="primitiveAutowiredInjection()" classname="org.springframework.context.annotation.PrimitiveBeanLookupAndAutowiringTests" time="0.011"/>
+  <testcase name="primitiveLookupByName()" classname="org.springframework.context.annotation.PrimitiveBeanLookupAndAutowiringTests" time="0.005"/>
+  <testcase name="primitiveLookupByType()" classname="org.springframework.context.annotation.PrimitiveBeanLookupAndAutowiringTests" time="0.007"/>
+  <testcase name="primitiveResourceInjection()" classname="org.springframework.context.annotation.PrimitiveBeanLookupAndAutowiringTests" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

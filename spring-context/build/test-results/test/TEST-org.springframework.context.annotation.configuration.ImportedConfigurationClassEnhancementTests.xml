@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:21" hostname="SUPERMAN" time="0.043">
+  <properties/>
+  <testcase name="autowiredConfigClassIsEnhancedWhenRegisteredViaConstructor()" classname="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" time="0.011"/>
+  <testcase name="autowiredConfigClassIsEnhancedWhenImported()" classname="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" time="0.009"/>
+  <testcase name="importingNonConfigurationClassCausesBeanDefinitionParsingException()" classname="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" time="0.011"/>
+  <testcase name="autowiredConfigClassBeanMethodsRespectScopingWhenImported()" classname="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" time="0.006"/>
+  <testcase name="autowiredConfigClassBeanMethodsRespectScopingWhenRegisteredViaConstructor()" classname="org.springframework.context.annotation.configuration.ImportedConfigurationClassEnhancementTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

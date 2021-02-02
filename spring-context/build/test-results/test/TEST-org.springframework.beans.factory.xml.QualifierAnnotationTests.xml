@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.beans.factory.xml.QualifierAnnotationTests" tests="13" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:23" hostname="SUPERMAN" time="0.792">
+  <properties/>
+  <testcase name="testInterfaceWithOneQualifiedFactoryAndOneQualifiedBean()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.038"/>
+  <testcase name="testQualifiedByCustomValue()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.107"/>
+  <testcase name="testQualifiedByAlias()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.057"/>
+  <testcase name="testQualifiedByValue()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.053"/>
+  <testcase name="testQualifiedByAnnotation()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.058"/>
+  <testcase name="testNonQualifiedFieldFails()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.068"/>
+  <testcase name="testQualifiedByParameterName()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.052"/>
+  <testcase name="testQualifiedByFieldName()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.079"/>
+  <testcase name="testQualifiedByBeanName()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.048"/>
+  <testcase name="testQualifiedByAttributesFailsWithoutCustomQualifierRegistered()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.066"/>
+  <testcase name="testQualifiedByAnnotationValue()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.056"/>
+  <testcase name="testQualifiedByParentValue()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.051"/>
+  <testcase name="testQualifiedByAttributesWithCustomQualifierRegistered()" classname="org.springframework.beans.factory.xml.QualifierAnnotationTests" time="0.053"/>
+  <system-out><![CDATA[09:37:24.218 [Test worker] WARN  o.s.c.s.StaticApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testBean': Unsatisfied dependency expressed through field 'anonymous'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'org.springframework.beans.factory.xml.QualifierAnnotationTests$Person' available: expected single matching bean but found 6: larryBean,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#0,org.springframework.beans.factory.xml.QualifierAnnotationTests$SpecialPerson#0,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#1,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#2,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#3
+09:37:24.467 [Test worker] WARN  o.s.c.s.StaticApplicationContext - Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'testBean': Unsatisfied dependency expressed through field 'moeSenior'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'org.springframework.beans.factory.xml.QualifierAnnotationTests$Person' available: expected single matching bean but found 6: larryBean,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#0,org.springframework.beans.factory.xml.QualifierAnnotationTests$SpecialPerson#0,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#1,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#2,org.springframework.beans.factory.xml.QualifierAnnotationTests$Person#3
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

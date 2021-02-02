@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.context.annotation.ImportSelectorTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:38:24" hostname="SUPERMAN" time="1.675">
+  <properties/>
+  <testcase name="invokeAwareMethodsInImportGroup()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.016"/>
+  <testcase name="importSelectors()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.778"/>
+  <testcase name="invokeAwareMethodsInImportSelector()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.004"/>
+  <testcase name="importSelectorsWithNestedGroup()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.28"/>
+  <testcase name="importSelectorsWithGroup()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.244"/>
+  <testcase name="importSelectorsSeparateWithGroup()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.132"/>
+  <testcase name="correctMetadataOnIndirectImports()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.031"/>
+  <testcase name="importSelectorsWithNestedGroupSameDeferredImport()" classname="org.springframework.context.annotation.ImportSelectorTests" time="0.186"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

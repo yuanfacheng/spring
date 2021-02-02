@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.cache.interceptor.CacheErrorHandlerTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2021-01-22T01:37:41" hostname="SUPERMAN" time="0.384">
+  <properties/>
+  <testcase name="clearFail()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.126"/>
+  <testcase name="evictFail()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.024"/>
+  <testcase name="getFailProperException()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.018"/>
+  <testcase name="putFail()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.031"/>
+  <testcase name="getFail()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.04"/>
+  <testcase name="getAndPutFail()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.034"/>
+  <testcase name="putFailProperException()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.044"/>
+  <testcase name="evictFailProperException()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.02"/>
+  <testcase name="clearFailProperException()" classname="org.springframework.cache.interceptor.CacheErrorHandlerTests" time="0.043"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
